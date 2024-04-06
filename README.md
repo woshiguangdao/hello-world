@@ -1,2 +1,1 @@
-# hello-world
-used to practice the process of Github
+hello world of hating one of my roomates
